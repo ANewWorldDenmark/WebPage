@@ -304,6 +304,7 @@ a:focus {
     display: none;
     flex-direction: column;
     background-color: white;
+    min-height: 176px;
 }
 
 .navbar .dropdown-menu .op:hover .oph{
